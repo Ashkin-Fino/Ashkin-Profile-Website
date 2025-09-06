@@ -19,6 +19,7 @@
   
 .home-text {
     flex: 1;
+    padding-right: 1.5rem;
 }
   
 .home-text h1 {
