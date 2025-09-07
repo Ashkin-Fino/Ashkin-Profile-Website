@@ -1,15 +1,13 @@
 import Navbar from "./Navbar";
 import Home from "./Home";
+import WorkExperience from "./WorkExperience";
 
 function App() {
   return (
     <>
       <Navbar />
       <Home />
-
-      <section id="work" style={{ height: "100vh", padding: "4rem 1.5rem", backgroundColor: "#f0f0f0", color: "#333" }}>
-        <h1>Work Experience</h1>
-      </section>
+      <WorkExperience />
 
       <section id="learning-journey" style={{ height: "100vh", padding: "4rem 1.5rem" }}>
         <h1>Learning Journey</h1>

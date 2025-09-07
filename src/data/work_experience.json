@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Analyst",
+        "company": "Zifo RnD Solutions",
+        "start": "June 2025",
+        "end": "Present",
+        "duration": "3 months",
+        "skills used": "<strong><i>Skills Used:</i></strong> Python, JavaScript, AWS Services, Git, BitBucket, Node.js, SAPIO LIMS, REST APIs, Jira",
+        "expandedText": "As Analyst, I led a data migration project, where I migrated data from a legacy archival system to SAPIO LIMS system. I spearheaded the design, development and successful implementation of automated regression testing script for a Node.js repository."
+    },
+    {
+        "title": "Programmer Analyst",
+        "company": "Zifo RnD Solutions",
+        "start": "July 2024",
+        "end" : "May 2025",
+        "duration": "11 months",
+        "skills used": "<strong><i>Skills Used:</i></strong> Python, AWS Lambda, Step Functions, S3, Event Bridge, SQS, RDS, REST APIs, Oracle SQL, PostgreSQL Benchling ELN, E-Notebook ELN, Git, GitHub",
+        "expandedText": "As Programmer Analyst, I led the migration of data from E-Notebook to Benchling ELN using direct database queries for data extraction and APIs for data ingestion. Spearheaded the design, development and deployment of a cloud-native solution, integrating inhouse pipelines with Benchling using AWS services such as Step Function, Lambda, RDC, S3, Event Bridge and SQS Queue."
+    },
+    {
+        "title": "Assosiate Analyst",
+        "company": "Zifo RnD Solutions",
+        "start": "June 2023",
+        "end": "June 2024",
+        "duration": "1 year 1 month",
+        "skills used": "<strong><i>Skills Used:</i></strong> Spring Framework, Java, Python, Benchling ELN, REST APIs, MySQL, Subversion",
+        "expandedText": "As Associate Analyst, I built a full scale web application as part of training project using Spring Boot, Hibernate(For database connectivity) and MySQL database. I supported in Migration of data from a file archival system to Benchling ELN. I developed an automated data extraction tool using python for migrating data from Labguru ELN to Benchling ELN using APIs for data extraction and ingestion."
+    }
+]

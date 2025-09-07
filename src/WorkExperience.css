@@ -1,0 +1,122 @@
+.experience-section {
+    padding: 4rem 2rem;
+    background: #0f172a;
+    color: #fff;
+}
+  
+.section-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    color: #4db5ff;
+}
+  
+/* Timeline */
+.timeline {
+    position: relative;
+    margin: 0 0 0 100px;
+    max-width: 100%;
+    padding-left: 2rem;
+}
+
+/* Timeline line */
+.timeline::before {
+    content: "";
+    position: absolute;
+    left: 30px;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #4db5ff;
+    border-radius: 2px;
+}
+  
+/* Timeline item */
+.timeline-item {
+    display: block;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-right: 100px;
+ }
+
+/* Connector Line and Date item */
+.timeline-card-separator {
+    display: flex;
+    margin-bottom: 1rem;
+    position: relative;
+}
+  
+/* Date */
+.timeline-date {
+    position: absolute;
+    left: -20px;
+    top: 0;
+    transform: translateX(-100%);
+    background: #1e293b;
+    color: #4db5ff;
+    font-size: 0.9rem;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+  
+/* Horizontal connector line */
+.timeline-connector {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 280px;
+    height: 2px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-image: linear-gradient(to right, #4db5ff 40%, transparent 40%);
+    background-size: 40px 2px;
+    background-repeat: repeat-x;
+    flex-shrink: 0;
+}
+  
+/* Card */
+.timeline-card {
+    background: #1e293b;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-left: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    flex: 1;
+    transition: all 0.3s ease;
+}
+
+.timeline-card:hover {
+    transform: scale(1.02); /* enlarges slightly */
+    box-shadow: 0 0 20px rgba(77, 181, 255, 0.6);
+}
+
+.timeline-card.expanded {
+    transform: scale(1.05);
+    margin-bottom: 2rem; /* push content below it down */
+    box-shadow: 0 0 20px rgba(77, 181, 255, 0.6);
+}
+
+.timeline-card h3 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: #fff;
+}
+  
+.timeline-card h4 {
+    margin: 0.3rem 0;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+.timeline-card h5 {
+    margin: 0.3rem 0;
+    font-size: 0.9rem;
+    color: #4db5ff;
+}
+  
+.timeline-card p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ddd;
+}
+  
