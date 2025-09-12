@@ -1,6 +1,7 @@
 import Navbar from "./Navbar";
 import Home from "./Home";
 import WorkExperience from "./WorkExperience";
+import Contact from "./Contact";
 
 function App() {
   return (
@@ -17,9 +18,7 @@ function App() {
         <h1>Education</h1>
       </section>
 
-      <section id="contact" style={{ height: "100vh", padding: "4rem 1.5rem" }}>
-        <h1>Contact Me</h1>
-      </section>
+      <Contact />
     </>
   );
 }

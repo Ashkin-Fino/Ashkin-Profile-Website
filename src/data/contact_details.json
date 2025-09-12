@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1, 
+        "name": "Phone", 
+        "value": "+91 7904984254", 
+        "link": "tel:+917904984254", 
+        "icon": "📞"
+    },
+    {
+        "id": 2, 
+        "name": "Email", 
+        "value": "rashkinfino421@gmail.com", 
+        "link": "mailto:rashkinfino421@gmail.com", 
+        "icon": "✉️"
+    },
+    {
+        "id": 3, 
+        "name": "LinkedIn", 
+        "value": "linkedin.com/in/ashkin-fino-r", 
+        "link": "https://linkedin.com/in/ashkin-fino-r", 
+        "icon": "🔗"
+    },
+    {
+        "id": 4, 
+        "name": "GitHub", 
+        "value": "github.com/Ashkin-Fino", 
+        "link": "https://github.com/Ashkin-Fino", 
+        "icon": "💻"
+    },
+    {
+        "id": 5, 
+        "name": "Glassdoor", 
+        "value": "glassdoor.com/yourprofile", 
+        "link": "https://www.glassdoor.com/member/profile/yourprofile", 
+        "icon": "🌐"
+    },
+    {
+        "id": 6, 
+        "name": "Naukri", 
+        "value": "naukri.com/yourprofile", 
+        "link": "https://www.naukri.com/yourprofile", 
+        "icon": "📑"
+    }
+]
