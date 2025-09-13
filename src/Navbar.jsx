@@ -35,7 +35,7 @@ function Navbar() {
         return () => window.removeEventListener("scroll", handleScroll);
     }, []);
 
-    const menuItems = ["home", "work", "education", "learning journey", "contact"];
+    const menuItems = ["home", "work", "education", "projects", "contact"];
 
     return (
         <nav className="navbar">
