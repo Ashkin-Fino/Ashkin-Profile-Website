@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "period": "2019 - 2023",
+      "degree": "B.E.",
+      "school": "Sri Krishna College of Engineering And Technology",
+      "details": "Mechanical Engineering Department. Graduated with 8.99 CGPA."
+    },
+    {
+      "id": 2,
+      "period": "2017 - 2019",
+      "degree": "Higher Secondary",
+      "school": "NVKS Higher Secondary School",
+      "details": "Maths, Physics and Chemestry with Computer Science. Graduated with 80%."
+    },
+    {
+      "id": 3,
+      "period": "2015 - 2017",
+      "degree": "Secondary School",
+      "school": "Mount Carmel Matriculation School",
+      "details": "Completed with 92%."
+    }
+]
