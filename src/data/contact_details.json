@@ -29,16 +29,9 @@
     },
     {
         "id": 5, 
-        "name": "Glassdoor", 
-        "value": "glassdoor.com/yourprofile", 
-        "link": "https://www.glassdoor.com/member/profile/yourprofile", 
-        "icon": "🌐"
-    },
-    {
-        "id": 6, 
-        "name": "Naukri", 
-        "value": "naukri.com/yourprofile", 
-        "link": "https://www.naukri.com/yourprofile", 
-        "icon": "📑"
+        "name": "Whats App", 
+        "value": "+91 7904984254", 
+        "link": "https://wa.me/917904984254", 
+        "icon": "💬"
     }
 ]
