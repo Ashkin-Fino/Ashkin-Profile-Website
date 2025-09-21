@@ -46,11 +46,27 @@
     border-radius: 8px;
     text-decoration: none;
     transition: background 0.3s ease;
+    margin-right: 1.5rem;
 }
   
 .contact-btn:hover {
     background-color: #0077cc;
     color: #1d0909;
+}
+
+.resume-btn {
+    padding: 0.8rem 1.5rem;
+    color: #fff;
+    background-color: #4db5ff;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+  
+.resume-btn:hover {
+    background-color: #0077cc;
+    color: #1d0909;
+    transform: translateY(-3px);
 }
   
 .home-image img {
