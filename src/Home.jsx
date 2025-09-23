@@ -14,7 +14,10 @@ function Home() {
                         I have experience in collaborating with offshore teams using GitHub, BitBucket and Jira. I possess good communication skills and routinely interact with clients and off shore teams. 
                         My work involves data extraction and ingestion via APIs and database queries, transforming and parsing complex datasets into modern, scalable platforms, building and deploying integrations and data pipelines using cloud services. 
                     </p>
-                    <a href="#contact" className="contact-btn">Contact Me</a>
+                    <span>
+                        <a href="#contact" className="contact-btn">Contact Me</a>
+                        <a href="/resume.pdf" className="resume-btn" download="Ashkin_Fino_Resume.pdf">Download Resume</a>
+                    </span>
                 </div>
                 <div className="home-image">
                     <img src={profilePic} alt="Profile" />
